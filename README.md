@@ -1,3 +1,11 @@
+[![Build Status](https://travis-ci.org/yandex-money-tech/moira-kotlin-dsl.svg?branch=master)](https://travis-ci.org/yandex-money-tech/moira-kotlin-dsl)
+[![Build status](https://ci.appveyor.com/api/projects/status/rm9w6w0jt994vyys?svg=true)](https://ci.appveyor.com/project/f0y/moira-kotlin-dsl)
+[![codecov](https://codecov.io/gh/yandex-money-tech/moira-kotlin-dsl/branch/master/graph/badge.svg)](https://codecov.io/gh/yandex-money-tech/moira-kotlin-dsl)
+[![codebeat badge](https://codebeat.co/badges/8bb6412b-cef6-4808-962e-9f9bfa5a13ec)](https://codebeat.co/projects/github-com-yandex-money-tech-moira-kotlin-dsl-master)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Javadoc](https://img.shields.io/badge/javadoc-latest-blue.svg)](https://yandex-money-tech.github.io/moira-kotlin-dsl/)
+[![Download](https://api.bintray.com/packages/yandex-money-tech/maven/moira-kotlin-dsl/images/download.svg) ](https://bintray.com/yandex-money-tech/maven/moira-kotlin-dsl/_latestVersion)
+
 # Yandex.Money Kotlin Moira Triggers DSL
 
 Domain Specific Language (DSL) designed to describe Moira triggers.
