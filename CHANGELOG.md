@@ -1,7 +1,7 @@
-### NEXT_VERSION_TYPE=PATCH
-### NEXT_VERSION_DESCRIPTION_BEGIN
+## [1.0.3]() (27-11-2019)
+
 * Fix test that uses `ZoneId.systemDefault()`
-### NEXT_VERSION_DESCRIPTION_END
+
 ## [1.0.2]() (27-11-2019)
 
 * Fix tests that use `ZoneId.systemDefault()`
