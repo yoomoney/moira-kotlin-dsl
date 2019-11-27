@@ -3,7 +3,7 @@
   "sched": {
     "endOffset": 1200,
     "startOffset": 600,
-    "tzOffset": 180,
+    "tzOffset": 60,
     "days": [
       {
         "name": "Mon",

@@ -38,7 +38,7 @@ class TriggerTest {
                 -DayOfWeek.SUNDAY
 
                 watchTime = "10:00".."20:00"
-                zoneOffset = ZoneOffset.ofHours(3)
+                zoneOffset = ZoneOffset.ofHours(1)
             }
         }
 
@@ -75,7 +75,7 @@ class TriggerTest {
                     -DayOfWeek.SUNDAY
 
                     watchTime = "10:00".."20:00"
-                    zoneOffset = ZoneOffset.ofHours(3)
+                    zoneOffset = ZoneOffset.ofHours(1)
                 }
             }
 
@@ -85,6 +85,10 @@ class TriggerTest {
 
                 val t1 by target("Test.metric.*")
                 val t2 by target("Test.metric.test")
+
+                schedule {
+                    zoneOffset = ZoneOffset.ofHours(1)
+                }
 
                 expression {
                     advanced {

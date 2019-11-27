@@ -4,7 +4,7 @@
     "sched": {
       "endOffset": 1200,
       "startOffset": 600,
-      "tzOffset": 180,
+      "tzOffset": 60,
       "days": [
         {
           "name": "Mon",
@@ -52,7 +52,7 @@
     "sched": {
       "endOffset": 1439,
       "startOffset": 0,
-      "tzOffset": 180,
+      "tzOffset": 60,
       "days": [
         {
           "name": "Mon",
