@@ -5,6 +5,7 @@ import org.skyscreamer.jsonassert.JSONAssert
 import ru.yandex.money.moira.dsl.triggers.TriggerState.ERROR
 import ru.yandex.money.moira.dsl.triggers.TriggerState.OK
 import java.time.DayOfWeek
+import java.time.ZoneOffset
 import java.util.stream.Collectors
 
 class TriggerTest {
@@ -37,6 +38,7 @@ class TriggerTest {
                 -DayOfWeek.SUNDAY
 
                 watchTime = "10:00".."20:00"
+                zoneOffset = ZoneOffset.ofHours(3)
             }
         }
 
@@ -73,6 +75,7 @@ class TriggerTest {
                     -DayOfWeek.SUNDAY
 
                     watchTime = "10:00".."20:00"
+                    zoneOffset = ZoneOffset.ofHours(3)
                 }
             }
 
