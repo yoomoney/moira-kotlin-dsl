@@ -17,7 +17,7 @@ Gradle example:
 
 ```groovy
 dependencies {
-    implementation 'com.yandex.money.tech:moira-kotlin-dsl:1.0.2'
+    implementation 'com.yandex.money.tech:moira-kotlin-dsl:1.0.3'
 }
 ```
 
