@@ -1,7 +1,7 @@
-### NEXT_VERSION_TYPE=MINOR
-### NEXT_VERSION_DESCRIPTION_BEGIN
+## [1.1.0]() (03-02-2020)
+
 * Update gradle version 4.10.2 -> 6.0.1
-### NEXT_VERSION_DESCRIPTION_END
+
 ## [1.0.3]() (27-11-2019)
 
 * Fix test that uses `ZoneId.systemDefault()`
