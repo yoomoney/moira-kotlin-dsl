@@ -1,7 +1,7 @@
-### NEXT_VERSION_TYPE=MINOR
-### NEXT_VERSION_DESCRIPTION_BEGIN
+## [1.2.0]() (07-02-2020)
+
 * Сборка на java 11
-### NEXT_VERSION_DESCRIPTION_END
+
 ## [1.1.0]() (03-02-2020)
 
 * Update gradle version 4.10.2 -> 6.0.1
