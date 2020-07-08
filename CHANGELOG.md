@@ -1,7 +1,7 @@
-### NEXT_VERSION_TYPE=MINOR
-### NEXT_VERSION_DESCRIPTION_BEGIN
+## [1.3.0]() (08-07-2020)
+
 * Обновлена версия gradle 6.0.1 -> 6.4.1.
-### NEXT_VERSION_DESCRIPTION_END
+
 ## [1.2.1]() (27-02-2020)
 
 * Don't add bibucket pull request link into changelog.md on release
