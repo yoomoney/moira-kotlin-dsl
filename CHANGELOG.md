@@ -1,7 +1,7 @@
-### NEXT_VERSION_TYPE=MINOR
-### NEXT_VERSION_DESCRIPTION_BEGIN
+## [1.4.0]() (19-02-2021)
+
 * Переименование yamoney-kotlin-module-plugin в ru.yoomoney.gradle.plugins.kotlin-plugin
-### NEXT_VERSION_DESCRIPTION_END
+
 ## [1.3.0]() (08-07-2020)
 
 * Обновлена версия gradle 6.0.1 -> 6.4.1.
