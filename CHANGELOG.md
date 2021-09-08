@@ -1,5 +1,9 @@
-### NEXT_VERSION_TYPE=MAJOR|MINOR|PATCH
+### NEXT_VERSION_TYPE=MAJOR
 ### NEXT_VERSION_DESCRIPTION_BEGIN
+* Изменения связанные с переходом на github
+* Удалены файлы *-public
+* Сборка на travis
+* **breaking changes** Переименованы паркеты ru.yandex.money -> ru.yoomoney.tech
 ### NEXT_VERSION_DESCRIPTION_END
 ## [1.4.0]() (19-02-2021)
 

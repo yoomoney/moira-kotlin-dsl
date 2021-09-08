@@ -1,14 +1,9 @@
-System.setProperty("platformLibraryProjectVersion", "6.+")
-
 repositories {
-    maven { url 'https://nexus.yamoney.ru/repository/gradle-plugins/' }
-    maven { url 'https://nexus.yamoney.ru/repository/thirdparty/' }
-    maven { url 'https://nexus.yamoney.ru/repository/central/' }
-    maven { url 'https://nexus.yamoney.ru/repository/releases/' }
-    maven { url 'https://nexus.yamoney.ru/repository/jcenter.bintray.com/' }
+    jcenter()
+    maven { url 'https://plugins.gradle.org/m2/' }
 
     dependencies {
-        classpath 'ru.yandex.money.gradle.plugins:yamoney-library-project-plugin:' +
-                System.getProperty("platformLibraryProjectVersion")
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.3.50'
+        classpath 'ru.yoomoney.gradle.plugins:library-project-plugin:7.+'
     }
 }

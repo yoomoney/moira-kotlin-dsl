@@ -1,11 +1,10 @@
-[![Build Status](https://travis-ci.org/yandex-money-tech/moira-kotlin-dsl.svg?branch=master)](https://travis-ci.org/yandex-money-tech/moira-kotlin-dsl)
-[![Build status](https://ci.appveyor.com/api/projects/status/lhh7e8jqp582ro9t?svg=true)](https://ci.appveyor.com/project/f0y/moira-kotlin-dsl)
-[![codecov](https://codecov.io/gh/yandex-money-tech/moira-kotlin-dsl/branch/master/graph/badge.svg)](https://codecov.io/gh/yandex-money-tech/moira-kotlin-dsl)
+[![Build Status](https://travis-ci.org/yoomoney/moira-kotlin-dsl.svg?branch=master)](https://travis-ci.org/yoomoney/moira-kotlin-dsl)
+[![codecov](https://codecov.io/gh/yoomoney/moira-kotlin-dsl/branch/master/graph/badge.svg)](https://codecov.io/gh/yoomoney/moira-kotlin-dsl)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Javadoc](https://img.shields.io/badge/javadoc-latest-blue.svg)](https://yandex-money-tech.github.io/moira-kotlin-dsl/)
-[![Download](https://api.bintray.com/packages/yandex-money-tech/maven/moira-kotlin-dsl/images/download.svg) ](https://bintray.com/yandex-money-tech/maven/moira-kotlin-dsl/_latestVersion)
+[![Javadoc](https://img.shields.io/badge/javadoc-latest-blue.svg)](https://yoomoney.github.io/moira-kotlin-dsl/)
+[![Download](https://img.shields.io/badge/Download-latest-green.svg) ](https://search.maven.org/artifact/ru.yoomoney.tech/moira-kotlin-dsl)
 
-# Yandex.Money Kotlin Moira Triggers DSL
+# moira-kotlin-dsl
 
 Domain Specific Language (DSL) designed to describe Moira triggers.
 
@@ -17,7 +16,7 @@ Gradle example:
 
 ```groovy
 dependencies {
-    implementation 'com.yandex.money.tech:moira-kotlin-dsl:1.0.3'
+    implementation 'ru.yoomoney.tech:moira-kotlin-dsl:2.0.0'
 }
 ```
 
@@ -47,7 +46,7 @@ fun main(args: Array<String>) {
 This DSL is designed to use with kotlin script, so you may have to configure your build tool to 
 [run kotlin scripts](https://kotlinlang.org/docs/tutorials/command-line.html#using-the-command-line-to-run-scripts).
 
-The resulting JSON document can be uploaded to Moira via [Yandex.Money Kotlin Moira Client](). 
+The resulting JSON document can be uploaded to Moira via [Kotlin Moira Client](). 
 
 ## User Guide
 
