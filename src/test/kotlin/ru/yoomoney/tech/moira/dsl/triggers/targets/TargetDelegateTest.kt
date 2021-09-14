@@ -2,8 +2,6 @@ package ru.yoomoney.tech.moira.dsl.triggers.targets
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-import ru.yoomoney.tech.moira.dsl.triggers.targets.Target
-import ru.yoomoney.tech.moira.dsl.triggers.targets.TargetDelegate
 
 class TargetDelegateTest {
 

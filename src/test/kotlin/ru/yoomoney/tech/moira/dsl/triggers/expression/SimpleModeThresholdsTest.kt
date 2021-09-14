@@ -2,7 +2,6 @@ package ru.yoomoney.tech.moira.dsl.triggers.expression
 
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.assertThrows
-import ru.yoomoney.tech.moira.dsl.triggers.expression.SimpleModeThresholds
 
 class SimpleModeThresholdsTest {
 
