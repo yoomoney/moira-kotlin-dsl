@@ -1,21 +1,25 @@
-### NEXT_VERSION_TYPE=MAJOR|MINOR|PATCH
+### NEXT_VERSION_TYPE=MAJOR
 ### NEXT_VERSION_DESCRIPTION_BEGIN
+* Changes due to movement to github
+* Files *-public have been deleted
+* Build with travis
+* **breaking changes** Packages `ru.yandex.money` have been renamed into `ru.yoomoney.tech`
 ### NEXT_VERSION_DESCRIPTION_END
 ## [1.4.0]() (19-02-2021)
 
-* Переименование yamoney-kotlin-module-plugin в ru.yoomoney.gradle.plugins.kotlin-plugin
+* `yamoney-kotlin-module-plugin` has been renamed into `ru.yoomoney.gradle.plugins.kotlin-plugin`
 
 ## [1.3.0]() (08-07-2020)
 
-* Обновлена версия gradle 6.0.1 -> 6.4.1.
+* Update gradle version 6.0.1 -> 6.4.1.
 
 ## [1.2.1]() (27-02-2020)
 
-* Don't add bibucket pull request link into changelog.md on release
+* Don't add bitbucket pull request link into changelog.md on release
 
 ## [1.2.0]() (07-02-2020)
 
-* Сборка на java 11
+* Build on java 11
 
 ## [1.1.0]() (03-02-2020)
 

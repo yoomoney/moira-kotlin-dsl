@@ -1,21 +1,10 @@
 buildscript {
     apply from: 'project.gradle', to: buildscript
 }
-apply plugin: 'yamoney-library-project-plugin'
-apply plugin: 'ru.yoomoney.gradle.plugins.kotlin-plugin'
 
-groupIdSuffix = "tools"
-artifactID = "yamoney-moira-kotlin-dsl"
+apply plugin: 'ru.yoomoney.gradle.plugins.library-project-plugin'
+apply plugin: 'ru.yoomoney.gradle.plugins.kotlin-plugin'
 
 apply from: 'dependencies.gradle'
 
-test {
-    useJUnitPlatform()
-    testLogging {
-        events 'passed', 'skipped', 'failed'
-    }
-}
-
-releaseSettings {
-    addPullRequestLinkToChangelog = false
-}
+artifactId = 'moira-kotlin-dsl'
