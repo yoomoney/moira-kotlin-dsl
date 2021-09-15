@@ -1,10 +1,10 @@
-### NEXT_VERSION_TYPE=MAJOR
-### NEXT_VERSION_DESCRIPTION_BEGIN
+## [2.0.0](https://github.com/yoomoney/moira-kotlin-dsl/pull/1) (15-09-2021)
+
 * Changes due to movement to github
 * Files *-public have been deleted
 * Build with travis
 * **breaking changes** Packages `ru.yandex.money` have been renamed into `ru.yoomoney.tech`
-### NEXT_VERSION_DESCRIPTION_END
+
 ## [1.4.0]() (19-02-2021)
 
 * `yamoney-kotlin-module-plugin` has been renamed into `ru.yoomoney.gradle.plugins.kotlin-plugin`
