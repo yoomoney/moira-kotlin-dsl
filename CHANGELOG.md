@@ -1,3 +1,6 @@
+### NEXT_VERSION_TYPE=MAJOR|MINOR|PATCH
+### NEXT_VERSION_DESCRIPTION_BEGIN
+### NEXT_VERSION_DESCRIPTION_END
 ## [2.0.0](https://github.com/yoomoney/moira-kotlin-dsl/pull/1) (15-09-2021)
 
 * Changes due to movement to github
