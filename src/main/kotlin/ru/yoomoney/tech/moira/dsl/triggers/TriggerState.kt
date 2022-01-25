@@ -23,5 +23,10 @@ enum class TriggerState(val state: String) {
     /**
      * No data available for given trigger.
      */
-    NO_DATA("NODATA")
+    NO_DATA("NODATA"),
+
+    /**
+     * Trigger is in DEL state.
+     */
+    DEL("DEL")
 }
