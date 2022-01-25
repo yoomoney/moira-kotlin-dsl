@@ -1,3 +1,6 @@
+### NEXT_VERSION_TYPE=MAJOR|MINOR|PATCH
+### NEXT_VERSION_DESCRIPTION_BEGIN
+### NEXT_VERSION_DESCRIPTION_END
 ## [2.1.0](https://github.com/yoomoney/moira-kotlin-dsl/pull/2) (25-01-2022)
 
 * Added DEL state for trigger.
