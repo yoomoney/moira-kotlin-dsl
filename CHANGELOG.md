@@ -1,3 +1,6 @@
+### NEXT_VERSION_TYPE=MAJOR|MINOR|PATCH
+### NEXT_VERSION_DESCRIPTION_BEGIN
+### NEXT_VERSION_DESCRIPTION_END
 ## [2.1.1](https://github.com/yoomoney/moira-kotlin-dsl/pull/3) (26-01-2022)
 
 * Fixed links to travis
