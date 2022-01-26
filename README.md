@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/yoomoney/moira-kotlin-dsl.svg?branch=master)](https://travis-ci.org/yoomoney/moira-kotlin-dsl)
+[![Build Status](https://travis-ci.com/yoomoney/moira-kotlin-dsl.svg?branch=master)](https://app.travis-ci.com/github/yoomoney/moira-kotlin-dsl)
 [![codecov](https://codecov.io/gh/yoomoney/moira-kotlin-dsl/branch/master/graph/badge.svg)](https://codecov.io/gh/yoomoney/moira-kotlin-dsl)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Javadoc](https://img.shields.io/badge/javadoc-latest-blue.svg)](https://yoomoney.github.io/moira-kotlin-dsl/)
