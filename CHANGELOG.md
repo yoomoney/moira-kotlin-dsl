@@ -1,7 +1,7 @@
-### NEXT_VERSION_TYPE=PATCH
-### NEXT_VERSION_DESCRIPTION_BEGIN
+## [2.1.1](https://github.com/yoomoney/moira-kotlin-dsl/pull/3) (26-01-2022)
+
 * Fixed links to travis
-### NEXT_VERSION_DESCRIPTION_END
+
 ## [2.1.0](https://github.com/yoomoney/moira-kotlin-dsl/pull/2) (25-01-2022)
 
 * Added DEL state for trigger.
